@@ -1,5 +1,6 @@
-# Python-Algorithm-and-Structure
+# **Python-Algorithm-and-Structure**
 
+### **[TOC]**
 - CH01 : 재귀함수
 - CH02 : 성능분석
 - CH03 : 배열
@@ -17,6 +18,6 @@
 - CH15 : 자료구조가 적용된 실제 사례
 
 
-### Reference : <파이썬으로 배우는 자료 구조 핵심 원리>(길벗, 2021)
+### **Reference : <파이썬으로 배우는 자료 구조 핵심 원리>(길벗, 2021)**
 
 
